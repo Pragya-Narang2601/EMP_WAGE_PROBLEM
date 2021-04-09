@@ -1,0 +1,6 @@
+C:\Users\Dell\source\repos\EMP_WAGE_PROBLEM\EmpWageSwitch\EmpWageSwitch\bin\Debug\EmpWageSwitch.exe.config
+C:\Users\Dell\source\repos\EMP_WAGE_PROBLEM\EmpWageSwitch\EmpWageSwitch\bin\Debug\EmpWageSwitch.exe
+C:\Users\Dell\source\repos\EMP_WAGE_PROBLEM\EmpWageSwitch\EmpWageSwitch\bin\Debug\EmpWageSwitch.pdb
+C:\Users\Dell\source\repos\EMP_WAGE_PROBLEM\EmpWageSwitch\EmpWageSwitch\obj\Debug\EmpWageSwitch.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\EMP_WAGE_PROBLEM\EmpWageSwitch\EmpWageSwitch\obj\Debug\EmpWageSwitch.exe
+C:\Users\Dell\source\repos\EMP_WAGE_PROBLEM\EmpWageSwitch\EmpWageSwitch\obj\Debug\EmpWageSwitch.pdb
